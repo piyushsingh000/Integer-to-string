@@ -1,0 +1,9 @@
+import java.util.*;
+public class Main{
+    public static void main (String args[]){
+       int name = 100;
+       
+       String Int = Integer.toString(name);
+       System.out.println(Int);
+    }
+}
